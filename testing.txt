@@ -1,3 +1,4 @@
-ini adalah text untuk branch master
+ini adalah text untuk branch lanjut1
+ini akan mengubah branch master
 okeh
-siap mantap
+mantaaapp
