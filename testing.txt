@@ -2,3 +2,6 @@ ini adalah text untuk branch lanjut1
 ini akan mengubah branch master
 okeh
 mantaaapp
+
+
+tolong tambahin ini lah yaa
